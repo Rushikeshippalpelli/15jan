@@ -1,0 +1,13 @@
+package jan15;
+
+public class A {
+
+	public static void main(String[] args) {
+		
+		String s = "afg";
+		
+		System.out.print(s);
+
+	}
+
+}
