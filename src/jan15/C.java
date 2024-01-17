@@ -8,7 +8,7 @@ public class C {
 		String s = "wedfgh";
 		
 		System.out.print(s);
-
+		System.out.print(s);
 	}
 
 }
