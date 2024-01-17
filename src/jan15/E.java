@@ -1,13 +1,12 @@
 package jan15;
 
-public class D {
+public class E {
 
 	public static void main(String[] args) {
-		String a = "ewrtgh";
 		
-		System.out.print(a);
+		String s = "sdfgb";
 		
-		
+		System.out.print(s);
 
 	}
 
